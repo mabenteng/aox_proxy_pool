@@ -64,7 +64,7 @@ CREATE TABLE `ip` (
 ```
 7. 运行ip检测
 ```
-> python manager.py check_proxy
+> python manager.py check-ip
 ```
 8. 运行squid同步
 ```
